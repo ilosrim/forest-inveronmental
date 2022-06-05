@@ -1,0 +1,25 @@
+/* Navbar section */
+.navbar {
+  padding: 40px 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar_left_sec{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+.navbar_left_sec, nav{
+  width: 50%;
+}
+.navbar_left_sec, nav, ul {
+  width: 70%;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
